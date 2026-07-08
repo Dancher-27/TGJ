@@ -1,0 +1,14 @@
+﻿# Database credentials — copy connection.example.php to connection.php locally
+includes/connection.php
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# XAMPP logs
+*.log
